@@ -41,6 +41,13 @@ Access the online version of this project through this link [PriscillaPortfolio]
 - LinkedIn: [Priscilla](https://linkedin.com/in/Priscilla)
 
 
+## Author
+**Author2**
+**Desmond Owusu Ansah**
+
+- Github [@Owusu-Desmond](https://github.com/Owusu-Desmond)
+- Twitter [@DesmondOwusuDev](https://twitter.com/DesmondOwusuDev)
+- LinkedIn [@desmond-owusu-ansah](https://www.linkedin.com/in/desmond-owusu-ansah-09274a223/)
 
 ## Contibution
 Contributions, issues, and feature requests are welcome!
